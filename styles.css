@@ -1,0 +1,21 @@
+
+ul {
+    list-style:none;
+    list-style-type: none;
+    padding-left:0;
+}
+
+
+h2, h3{
+    color: #231D4F;
+}
+.package-3{
+    color: blue;
+}
+.card-footer{
+    
+    background-color: rgb(255, 255, 255);
+}
+.accordion-button{
+    background-color: #fcfcfcc2;
+}
